@@ -4,6 +4,8 @@ Parse the arguments from the command line with just a `decorator`.
 
 The help message is built from the docstring.
 
+Fill free to fork this project to improve it.
+
 ## Installation
 This library require python 3.
 > pip install git+https://github.com/Mister7F/cmdargs
@@ -114,3 +116,6 @@ Call a function
 ```
 Result: 40
 ```
+
+# Todo
+- Support python 2
