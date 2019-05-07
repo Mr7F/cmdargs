@@ -4,6 +4,10 @@ Parse the arguments from the command line with just a `decorator`.
 
 The help message is built from the docstring.
 
+## Installation
+This library require python 3.
+> pip install git+https://github.com/Mister7F/cmdargs
+
 ## Main
 You can use the `@console` decorator on the `main` function, to specify general parameters.
 
